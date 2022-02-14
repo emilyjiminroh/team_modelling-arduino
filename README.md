@@ -1,4 +1,6 @@
 # team_modelling-arduino
+![3d modelling](https://user-images.githubusercontent.com/71576768/153899786-07d81503-6fff-4556-b474-7963ce576be0.png)
+
 
 ## 개발 목표
 -	과방을 웹/앱으로 관리하는 IoT 프로그램 구현
